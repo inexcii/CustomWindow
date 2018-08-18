@@ -12,6 +12,8 @@
 		00CD35B921270F3000B30186 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00CD35B721270F3000B30186 /* Main.storyboard */; };
 		00CD35BB21270F3200B30186 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00CD35BA21270F3200B30186 /* Assets.xcassets */; };
 		00CD35BE21270F3200B30186 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00CD35BC21270F3200B30186 /* LaunchScreen.storyboard */; };
+		00CD35C62127CB9600B30186 /* CustomWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CD35C52127CB9600B30186 /* CustomWindow.swift */; };
+		00CD35C82127CCB300B30186 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CD35C72127CCB300B30186 /* CustomViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		00CD35BA21270F3200B30186 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00CD35BD21270F3200B30186 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00CD35BF21270F3200B30186 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00CD35C52127CB9600B30186 /* CustomWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomWindow.swift; sourceTree = "<group>"; };
+		00CD35C72127CCB300B30186 /* CustomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				00CD35BA21270F3200B30186 /* Assets.xcassets */,
 				00CD35BC21270F3200B30186 /* LaunchScreen.storyboard */,
 				00CD35BF21270F3200B30186 /* Info.plist */,
+				00CD35C52127CB9600B30186 /* CustomWindow.swift */,
+				00CD35C72127CCB300B30186 /* CustomViewController.swift */,
 			);
 			path = TestFloatWindow0817;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				00CD35B621270F3000B30186 /* ViewController.swift in Sources */,
 				00CD35B421270F3000B30186 /* AppDelegate.swift in Sources */,
+				00CD35C62127CB9600B30186 /* CustomWindow.swift in Sources */,
+				00CD35C82127CCB300B30186 /* CustomViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
